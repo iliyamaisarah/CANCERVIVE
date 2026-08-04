@@ -190,6 +190,7 @@ Treatment Recommendation
 ### Prediction
 
 <img width="1405" height="761" alt="image" src="https://github.com/user-attachments/assets/1eb87334-bc00-494b-ab9a-94d770115784" />
+<img width="602" height="695" alt="image" src="https://github.com/user-attachments/assets/8b16f6b9-e1b1-4e61-9927-98b24320ba62" />
 
 
 ### Information Page
