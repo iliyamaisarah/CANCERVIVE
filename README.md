@@ -179,23 +179,24 @@ Treatment Recommendation
 
 ### Home Page
 
-(Add image)
+<img width="1380" height="781" alt="image" src="https://github.com/user-attachments/assets/0ee62efe-2861-44ee-a723-616b66a36ee7" />
+
 
 ### Dashboard
 
-(Add image)
+<img width="1305" height="752" alt="image" src="https://github.com/user-attachments/assets/f865ba21-3edc-4340-add6-23d0f5f0246e" />
+
 
 ### Prediction
 
-(Add image)
+<img width="1405" height="761" alt="image" src="https://github.com/user-attachments/assets/1eb87334-bc00-494b-ab9a-94d770115784" />
 
-### Recommendation
-
-(Add image)
 
 ### Information Page
-
-(Add image)
+<img width="1516" height="772" alt="image" src="https://github.com/user-attachments/assets/3eb27d79-cd08-4473-bf26-4b84ec9d98b3" />
+<img width="1380" height="777" alt="image" src="https://github.com/user-attachments/assets/25755f1f-f130-4ae3-b889-2c276736c1b4" />
+<img width="1345" height="757" alt="image" src="https://github.com/user-attachments/assets/24f37f7a-a751-4d9d-9f79-fe5968db2da7" />
+<img width="1330" height="767" alt="image" src="https://github.com/user-attachments/assets/a034dd75-de17-4ca5-922e-dafca7f1dcbd" />
 
 ---
 
