@@ -1,14 +1,5 @@
 # 🩺 CANCERVIVE
 ### Data Visualization of Cancer Survival & Treatment Recommendation
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-red)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
----
-
 ## 📖 About
 
 CANCERVIVE is a Final Year Project developed for the Bachelor of Information Technology (Hons.) at Universiti Teknologi MARA (UiTM).
